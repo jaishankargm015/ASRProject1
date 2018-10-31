@@ -1,0 +1,18 @@
+For delta = 0 and without energy coefficients the accuracy for the GMM is as follows:
+with 2 mixture components the accuracy is 11.205.
+with 4 mixture components the accuracy is 13.280
+with 8 mixture components the accuracy is 13.523
+with 16 mixture components the accuracy is 13.904
+with 32 mixture components the accuracy is 13.693
+with 64 mixture components the accuracy is 13.102
+with 128 mixture components the accuracy is 12.5302
+with 256 mixture components the accuracy is 12.062
+	
+	  
+For a GMM with 2 mixture components without EC the accuracy readings follow:
+for delta = 1 the accuracy is 12.735
+for delta = 2 the accuracy is 13.123
+
+For a GMM with 2 mixture components without EC the accuracy readings follow:
+for delta = 1 the accuracy is 13.859
+for delta = 2 the accuracy is 14.103		
